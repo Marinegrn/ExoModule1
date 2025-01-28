@@ -1,8 +1,13 @@
+background {
+    color: blanchedalmond;
+}
+
+
 h1 {
-    color: black;
+    color: purple;
 }
 
 
 p {
-    color: black;
+    color: grey;
 }
